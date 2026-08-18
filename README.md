@@ -42,5 +42,5 @@ The budget figures used in this project are real numbers taken from:
 
 ## Author
 
-Sarthak Ruidas
+Satyam Kumar
 B.Tech CSE (AI & ML), Guru Nanak Institute of Technology
